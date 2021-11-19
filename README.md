@@ -1,1 +1,3 @@
 # SonDakikaDeprem
+
+Olan Depremleri Gösteriyor
